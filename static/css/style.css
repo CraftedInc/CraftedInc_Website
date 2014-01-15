@@ -17,7 +17,7 @@ html, body {
     text-align: center;
     padding-top: 30px;
     min-height: 85px;
-    background-color: #000;
+    background-color: #050505;
 }
 #footer a {
     font-size: 18px;
@@ -37,6 +37,10 @@ html, body {
 }
 .appcrafted-blue {
     color: #3FA9F5 !important;
+}
+.open-sans {
+    font-size: 1.2em;
+    font-family: 'Open Sans', sans-serif;
 }
 .crafted-font {
     font-family: 'Comfortaa', cursive;
