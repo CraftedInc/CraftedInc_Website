@@ -1,0 +1,93 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: #081516 !important;
+}
+.container {
+    max-width: 900px;
+}
+#wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -85px;
+    padding: 0 0 85px;
+}
+#footer {
+    text-align: center;
+    padding-top: 30px;
+    min-height: 85px;
+    background-color: #000;
+}
+#footer a {
+    font-size: 18px;
+    transition: 0.25s;
+    color: #555;
+}
+#footer a:hover {
+    color: #DDD;
+    text-decoration: none;
+}
+.social-icon {
+    font-size: 30px;
+}
+.center-header {
+    padding: 20px 15px;
+    text-align: center;
+}
+.appcrafted-blue {
+    color: #3FA9F5 !important;
+}
+.crafted-font {
+    font-family: 'Comfortaa', cursive;
+}
+.crafted-logo {
+    font-size: 80px;
+    color: #CCC;
+}
+#services {
+    padding: 60px 0 30px 0;
+    text-align: center;
+    border-bottom: 1px solid #222;
+}
+#network {
+    padding: 30px 0;
+    text-align: center;
+}
+#appcrafted {
+    color: #CCC;
+    font-size: 40px;
+}
+#appcrafted:hover {
+    text-decoration: none;
+}
+#folio24 {
+    margin: 0 auto;
+    padding: 10px 0;
+    background: transparent url('../img/folio24-logo.png') no-repeat center center;
+    background-size: 150px;
+    display: block;
+    height: 58px;
+    width: 150px;
+    text-indent:-9999px;
+}
+#the-write-life {
+    margin: 15px auto;
+    padding: 10px 0;
+    background: transparent url('../img/write-life.jpg') no-repeat center center;
+    background-size: 150px;
+    display: block;
+    height: 58px;
+    width: 150px;
+    text-indent:-9999px;
+}
+.light-text {
+    color: #CCC;
+}
+.bull {
+    font-size: 10px;
+    color: #333;
+}
+.tile {
+    margin-bottom: 30px;
+}
